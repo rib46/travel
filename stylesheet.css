@@ -205,9 +205,6 @@ footer {
 }
 
 @media(max-width:670px){
-  .header-left h1{
-    font-size:30px;
-  }
   
   .header-center{
     display:none;
@@ -227,7 +224,7 @@ footer {
   }
 
   .top-wrapper h1{
-    font-size: 35px;
+    font-size: 30px;
   }
 
   .top-wrapper p{

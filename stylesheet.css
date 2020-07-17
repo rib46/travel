@@ -206,6 +206,10 @@ footer {
 
 @media(max-width:670px){
   .header-right{
+    padding:0 10px;
+  }
+  
+  .header-right a{
     font-size: 13px;
   }
   

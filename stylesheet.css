@@ -221,16 +221,17 @@ footer {
     display:block;
   }
   .top-wrapper{
-    color:black;
     text-align: left;
     background-size: cover;
   }
 
   .top-wrapper h1{
+    color:black;
     font-size: 35px;
   }
 
   .top-wrapper p{
+    color:black;
     font-size: 15px;
   }
 

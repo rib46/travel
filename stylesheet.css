@@ -205,6 +205,10 @@ footer {
 }
 
 @media(max-width:670px){
+  .header-center{
+    display:none;
+  }
+  
   .header-right{
     padding:0 5px;
   }

@@ -124,14 +124,6 @@ padding:0;
   background-color: rgba(255, 255, 255, 0.3);
 }
 
-.menu-icon{
-  color:white;
-  float:right;
-  display:none;
-  font-size:25px;
-  padding:21px 0;
-}
-
 .lesson-wrapper {
   padding-bottom:80px;
   text-align:center;
@@ -214,12 +206,9 @@ footer {
 
 @media(max-width:670px){
   .header-right{
-    display:none;
+    font-size: 13px;
   }
-
-  .menu-icon{
-    display:block;
-  }
+  
   .top-wrapper{
     text-align: left;
     background-size: cover;

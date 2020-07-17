@@ -206,7 +206,7 @@ footer {
 
 @media(max-width:670px){
   .header-right{
-    padding:0 10px;
+    padding:0 5px;
   }
   
   .header-right a{

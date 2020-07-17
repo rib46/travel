@@ -205,6 +205,10 @@ footer {
 }
 
 @media(max-width:670px){
+  .header-left h1{
+    font-size:30px;
+  }
+  
   .header-center{
     display:none;
   }
